@@ -1,5 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
+from sqlalchemy.ext.declarative import declarative_base
+
 
 # Создаем движок базы данных
 DATABASE_URL = "sqlite:///taskmanager.db"

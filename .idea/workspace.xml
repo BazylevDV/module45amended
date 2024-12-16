@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1954a851-572f-4ff8-99b7-406e609df57a" name="Changes" comment="" />
+    <list default="true" id="1954a851-572f-4ff8-99b7-406e609df57a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alembic.ini" beforeDir="false" afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/backend/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/backend/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/script.py.mako" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/versions/1c5bb642b78b_initial_migration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/versions/aea879e12bce_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routers/taskmanager.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager.db" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +40,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/BazylevDV/pythonProject45.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/BazylevDV/module17.3.git&quot;,
     &quot;accountId&quot;: &quot;1d87dcdc-4163-4dbc-87e4-7b6f2d8a4769&quot;
   }
 }</component>
@@ -46,18 +58,22 @@
     "Python.1c5bb642b78b_initial_migration.executor": "Run",
     "Python.db.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.reset_alemblic.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bdv\PycharmProjects\pythonProject45\app" />
+      <recent name="C:\Users\bdv\PycharmProjects\pythonProject45" />
+      <recent name="C:\Users\bdv\PycharmProjects\pythonProject45\app\migrations" />
       <recent name="C:\Users\bdv\PycharmProjects\pythonProject45\app\routers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.reset_alemblic">
     <configuration name="1c5bb642b78b_initial_migration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject45" />
       <option name="ENV_FILES" value="" />
@@ -124,8 +140,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="reset_alemblic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject45" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reset_alemblic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reset_alemblic" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.1c5bb642b78b_initial_migration" />
         <item itemvalue="Python.db" />
